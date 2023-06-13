@@ -1,2 +1,2 @@
-# tictactoe -
-- tic tac toe (o famoso "jogo da velha") em javascript
+# Tic Tac Toe
+O famoso "jogo da velha") em JavaScript
